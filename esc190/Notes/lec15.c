@@ -1,0 +1,1 @@
+// use memcpy when ending in the middle of the string and add null character manually

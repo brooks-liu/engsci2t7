@@ -1,0 +1,1 @@
+ (*matrix)[i * size + (graph1.nodes[i].neighbours[
